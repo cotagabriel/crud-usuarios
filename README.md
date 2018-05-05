@@ -1,4 +1,4 @@
-# CRUD de usários
+# CRUD de usuários
 
 Este repositório contém o backend e front de um CRUD de usuários utilizando REST API com Flask e Flask-SQLAlchemy.
 
